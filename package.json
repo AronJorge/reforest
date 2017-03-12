@@ -1,0 +1,19 @@
+{
+  "name": "reforest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Janner Gamarra & Luis Fernando Gutierrez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-myconnection": "^1.0.4",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  }
+}
